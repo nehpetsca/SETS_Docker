@@ -1,0 +1,7 @@
+*/dist
+*/.idea
+*/.git
+*/__pycache_
+*/build
+*/venv
+*/.gitignore
